@@ -1,0 +1,17 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "nice-schematics": {
+      "description": "A blank schematic.",
+      "factory": "./nice-schematics/index#niceSchematics"
+    },
+    "hello-world": {
+      "description": "A blank schematic.",
+      "factory": "./hello-world/index#helloWorld"
+    },
+    "update-package": {
+      "description": "A blank schematic.",
+      "factory": "./update-package/index#updatePackage"
+    }
+  }
+}
