@@ -1,0 +1,19 @@
+{
+    "upgrade": {
+        "ng17": {
+            "@niceltd/cxone-client-platform-services": "^23.13.0",
+            "@niceltd/cxone-core-services": "^22.2.0",
+            "@niceltd/cxone-domain-components": "^26.8.0",
+            "@niceltd/cxone-playwright-test-utils": "^13.22.0",
+            "@niceltd/sol": "^7.12.0",
+            "@niceltd/cxone-components": "^21.1.0"
+        },
+        "ng14": {
+            "cxone-core-services": "^17.20.0",
+            "cxone-domain-components": "^20.13.0",
+            "cxone-playwright-test-utils": "^12.0.10",
+            "nice-solaris-ngx": "^4.12.0",
+            "cxone-components": "^17.52.0"
+        }
+    }
+}

@@ -12,7 +12,11 @@
     "update-package": {
       "description": "A blank schematic.",
       "factory": "./update-package/index#updatePackage",
-       "schema": "./update-package/schema.json"
+      "schema": "./update-package/schema.json"
+    },
+    "sync-platform-libs": {
+      "description": "A blank schematic.",
+      "factory": "./sync-platform-libs/index#syncPlatformLibs"
     }
   }
 }
