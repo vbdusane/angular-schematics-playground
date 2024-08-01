@@ -28,6 +28,9 @@ This repository is a basic Schematic implementation that serves as a starting po
 - Run with parameters `ng g NAME_OF_SCHEMATICS_PROJECT:NAME_OF_SCHEMATICS --PARAM_NAME=VALUE`
 
 
+### Update package dependencies schematics
+- `ng g nice-schematics:update-package --dependencies="dependency_name:dependency_value,dependency_name:dependency_value"`
+
 ### NOTE: always remember to run build after any code change in code 
 
 

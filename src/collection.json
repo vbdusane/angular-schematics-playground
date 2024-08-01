@@ -11,7 +11,8 @@
     },
     "update-package": {
       "description": "A blank schematic.",
-      "factory": "./update-package/index#updatePackage"
+      "factory": "./update-package/index#updatePackage",
+       "schema": "./update-package/schema.json"
     }
   }
 }
