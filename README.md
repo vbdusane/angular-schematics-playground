@@ -5,6 +5,9 @@ This repository is a basic Schematic implementation that serves as a starting po
 
 ### Setting up the repo
 
+- npm install -g @angular-devkit/schematics-cli@17.0.0
+- npm install -g @angular/cli@17.0.0 
+
 - Take a clone of this repo and run `npm install`
 - To build this schematics `npm run build`
 - To check if schematics running `schematics .:hello-world` this command will print hello world
